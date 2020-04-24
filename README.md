@@ -13,3 +13,6 @@ Adding GIT comparisons lecture.
 ## Git Repo and stage area compare
 
 This change is to check the stage area and git repo difference.
+
+## My changes
+Mahesh added this in file.
