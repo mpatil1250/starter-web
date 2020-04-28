@@ -1,7 +1,7 @@
 # humanstxt.org/
 # The humans responsible & technology colophon
 
-# TEAM
+# TEAM- This line is added to chack the stash command.
 
     <name> -- <role> -- <twitter>
 
